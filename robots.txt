@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /tf93j9h43a753b0978oe643ae8b9d875w3gab3685ba7r.html/
+Disallow: /9387y73b918d4729814274-3j9c734789235624389e2r78ere8ry.html/
+Disallow: 894yf0452fn343545-34-2345452454903utj0498iti-3t434t34ti34ut83gh9f8fn84snr.html/
+Disallow: /thade.html/
